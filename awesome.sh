@@ -1,1 +1,1 @@
-# awesome installer which is very good lookin
+# Awesome installer which is very good lookin
